@@ -1,0 +1,20 @@
+# Maven build output (reports, logs, screenshots all live here)
+target/
+
+# TestNG output from Eclipse runs
+test-output/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Other IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
